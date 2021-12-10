@@ -1,5 +1,6 @@
 Pyrogram
 TgCrypto
+six
 opencv-python-headless
 agentocr==1.3.0
 onnxruntime==1.8.1
